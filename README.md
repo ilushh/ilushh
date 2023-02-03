@@ -17,6 +17,7 @@
   * > AWS Cloud Practitioner 12/22 :white_check_mark:
 - 🏋🏼‍♀️ I am gaining knowledge in various fields including _LPIC1, JavaScript, Angular 2, Python_, and a range of other modern DevOps Tools [#TechstarterGmbH](https://github.com/TechstarterGmbH)
 - :muscle: I’m seeking a devops apprenticeships starting in July 2023.
+- 📫 How to reach me julide.cesit@icloud.com
 
 <p align="center" dir="auto">
 	<a target="_blank" rel="noopener noreferrer nofollow" href=https://github.com/ilushh/ilushh ><img width="450em" src="https://github-readme-stats-brewdihq.vercel.app/api/?username=ilushh&theme=aura_dark&bg_color=0C1117&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&text_bold=false" style="max-width: 100%;"></a>
