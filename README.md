@@ -1,4 +1,4 @@
-### Hi there here smth about me:  ilushh👋
+### <b> Hey, my name is Jülide...
 <!--
 
 - 🔭 I’m currently working on ...
@@ -10,7 +10,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-- :bowtie: My name is Jülide and I am originally from northern Germany but currently based in the Ruhrpott.
+- :bowtie: ...and I am originally from northern Germany but currently based in the Ruhrpott.
 - :cloud: Currently I’m in a training programme to become a devops engineer.
 - :star2: Passed certificates are: was cloud practitioner
 - :book: I am gaining knowledge in various fields including LPIC1, JavaScript, Angular 2, Python, and a range of other modern DevOps Tools @techstarter.de
