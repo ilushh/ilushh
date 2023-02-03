@@ -1,16 +1,26 @@
-### Hi there 👋
-
+### Hi there here smth about me:  ilushh👋
 <!--
-**ilushh/ilushh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+ How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
+- :bowtie: My name is Jülide and I am originally from northern Germany but currently based in the Ruhrpott.
+- :cloud: Currently I’m in a training programme to become a devops engineer.
+- :star2: Passed certificates are: was cloud practitioner
+- :book: I am gaining knowledge in various fields including LPIC1, JavaScript, Angular 2, Python, and a range of other modern DevOps Tools @techstarter.de
+- :muscle: I’m seeking a devops apprenticeships starting in July 2023.
+
+
+
+
+![Ilushh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilushh&theme=aura_dark&show_icons=true)
+
+
+
+[![MY Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilushh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
