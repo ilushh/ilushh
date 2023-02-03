@@ -11,7 +11,7 @@
 - ⚡ Fun fact: ... -->
 
 - :bowtie: ... and I am originally from northern Germany but currently based in the Ruhrpott.
-- :cloud: Currently I’m in a training programme to become a devops engineer.
+- :cloud: Currently I’m in a training programme to become a DEVOPS engineer.
 - :star2: Passed certificates are: was cloud practitioner
 - :book: I am gaining knowledge in various fields including LPIC1, JavaScript, Angular 2, Python, and a range of other modern DevOps Tools @techstarter.de
 - :muscle: I’m seeking a devops apprenticeships starting in July 2023.
