@@ -1,5 +1,6 @@
-### <b> Hey, my name is Jülide...
+## <b> Hey, I'M Jülide :ok_woman:
 <!--
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -10,10 +11,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-- :bowtie: ... and I am originally from northern Germany but currently based in the Ruhrpott.
+- ... and I am originally from northern Germany but currently based in the Ruhrpott.
 - :cloud: Currently I’m in a training programme to become a DEVOPS engineer.
 - :star2: Passed certificates are: 
-      - AWS Cloud Practitioner :white_check_mark:
+  * > AWS Cloud Practitioner :white_check_mark:
 - :book: I am gaining knowledge in various fields including LPIC1, JavaScript, Angular 2, Python, and a range of other modern DevOps Tools @techstarter.de
 - :muscle: I’m seeking a devops apprenticeships starting in July 2023.
 
