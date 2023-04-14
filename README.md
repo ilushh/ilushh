@@ -35,4 +35,4 @@
 <p align="center" dir="auto">
 	<a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats-ilushh.vercel.app/api/top-langs" ><img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilushh&theme=aura_dark&layout=compact&hide_border=true&bg_color=0C1117&card_width=350&langs_count=9&cache_seconds=7200&count_private=true"style="max-width: 100%;"></a>
 </p>
-	
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg">
