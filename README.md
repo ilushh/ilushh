@@ -14,7 +14,8 @@
 - ... and I am originally from northern Germany but currently based in the Ruhrpott.
 - :cloud: Currently I’m in a training programme to become a DEVOPS engineer.
 - 🥰 Passed certificates are: 
-  * > AWS Cloud Practitioner 12/22 :white_check_mark:
+	* > AWS Cloud Practitioner 12/22 :white_check_mark:
+	* > Professional Scrum Master™ I (PSM I) :white_check_mark:
 - 🏋🏼‍♀️ I am gaining knowledge in various fields including _LPIC1, JavaScript, Angular 2, Python_, and a range of other modern DevOps Tools [#TechstarterGmbH](https://github.com/TechstarterGmbH)
 - :muscle: I’m seeking a devops apprenticeships starting in July 2023.
 - 📫 How to reach me julide.cesit@icloud.com
